@@ -1,6 +1,5 @@
 # LegendsGodsTravelers
  Simple 2D indie game
 
-
-Uploading LegendsGodsTravelersGameplayRecording.mp4…
+https://github.com/user-attachments/assets/f62c708d-099d-4f45-b53d-db80597a44fb
 
